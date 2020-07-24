@@ -11,7 +11,6 @@ export const decrement = () => {
 	}
 }
 
-
 export const log = () => {
 	return {
 		type: 'SIGN_IN'
